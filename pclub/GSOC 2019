@@ -1,0 +1,101 @@
+name,proname,orgname
+Monica Ya,"""Future-Proofing"" Tedana",Organization: INCF
+Emily Thoma,16.4 Open Data for OpenWorm,Organization: INCF
+Eugene Lyapusti,360° video filter,Organization: FFmpeg
+IASON MANOLOUDI,3D Traffic Sign Rendering in OSM2World,Organization: OpenStreetMap
+ThePh,7 Years Later: On vector<bool> and optimized Standard Algorithms in libstdc++,Organization: GNU Compiler Collection
+Tanay Tummalapall,[BEAM-6611] A Python Sink for BigQuery with File Loads in Streaming,Organization: The Apache Software Foundation
+Ahmed Fath,[digiKam] Project: Zoomable and Resizable Brush for Healing Clone Tool,Organization: KDE Community
+Kumar Mallikarjun,[GNU Wget] HTTP/2 Test Suite,Organization: The GNU Project
+Nadeeshan Gimhan,[OODT-986] A React based new UI for OPSUI,Organization: The Apache Software Foundation
+Pranshu Srivastav,`matcher.js` library and `Leaflet.DistortableImage` overhaul,Organization: Public Lab
+Christos Chroni,A DIY Robot kit for educators,Organization: Open Technologies Aliance - GFOSS
+Frederik Ramck,A language server for Dhall,Organization: Haskell.Org
+Anan,A Neural QA Model for DBpedia - Anand Panchbhai,Organization: DBpedia
+Jian Ca,A new framework in support of multiple MPI implementations,Organization: Gentoo Foundation
+Gregory S Brownso,"A New Package for Empirical Asset Pricing Research, or EAPR",Organization: R project for statistical computing
+Harman Deep Sing,A Next Generation GUI for  Visualizing Big Gridded Data in Python,Organization: Earth Science Information Partners
+sudo-pand,A parameterized automata Library for VisualStates tool,Organization: JdeRobot - Universidad Rey Juan Carlos
+Jongmin Ki,A Rails 6 package transition in Debian,Organization: Ruby
+Margaret Norto,A small proposal for global environmental monitoring with Image Sequencer,Organization: Public Lab
+dxl,A stronger foundation for interactive Haskell tooling,Organization: Haskell.Org
+mstoeck,A Wayland application proxy,Organization: X.Org Foundation
+aj,Accountability Classifier from Annotated Data,Organization: Red Hen Lab
+Keshavan Seshadr,Active Learning Environment In 3Dmol.js,Organization: Open Chemistry
+jguert,Active Learning for Guided Analytics,Organization: KNIME
+Shreevari S,Activity Masking in rav1e,Organization: Mozilla
+Alex Mingfei Su,Actor support on Ignition,Organization: Open Source Robotics Foundation
+Akul Abhilash Pilla,Adapting TriforceAFL for NetBSD kernel fuzzing,Organization: The NetBSD Foundation
+Pradyumna Ban,Add blockchain and hyperledger support for the ‘Journal of Open Data Publications’,Organization: Open Bioinformatics Foundation
+Sage Muhammad Abdulla,Add Cross-DB JSONField,Organization: Django Software Foundation
+Song Qian,Add Driver Support for AD5940 in the IIO Subsystem,Organization: The Linux Foundation
+Vijay Kumar Banerje,Add Framebuffer driver for Beaglebone Black,Organization: RTEMS Project
+Navaneeth Sures,Add functionality to store an unresolved merge-state,Organization: Python Software Foundation
+Manikishan Ghantasal,Add KNF (NetBSD style) clang-format configuration,Organization: The NetBSD Foundation
+Amit Jok,Add Multi-Wiki Support to WikiEduDashboard,Organization: Wikimedia Foundation
+Pranav Pande,Add new features on React Native client,Organization: Rocket.Chat
+Yash Lamb,Add New Machine Learning Models,Organization: Python Software Foundation
+Tejas Josh,Add new math.h and complex.h functions as built-ins.,Organization: GNU Compiler Collection
+Ajat Prabh,Add Plugin Mechanism to the Dashboard,Organization: Cloud Native Computing Foundation (CNCF)
+Rucha Deodha,Add returning to insert,Organization: MariaDB Foundation
+Shannon Sequeir,Add subsampling to aster models,Organization: R project for statistical computing
+Aswin M Prabh,Add support for additional delivery channels to Moira,Organization: Moira
+berserker,Add support for bounce processing in core,Organization: GNU Mailman
+Elijah Oyekunl,Add Support for Custom Resource Definitions to the Dashboard,Organization: Cloud Native Computing Foundation (CNCF)
+Shawn Fen,Add Support for Extra Optimization Solvers to PortfolioAnalytics,Organization: R project for statistical computing
+Alejandro Germai,Add support for the OCI runtime spec by implementing a runc stage2,Organization: Cloud Native Computing Foundation (CNCF)
+Nikhil Ramakrishna,Add Support for WOFF2 Fonts to FreeType,Organization: FreeType
+Kris Ster,Add Time-dependent Instrument Response Function to IRISpy,Organization: Open Astronomy
+Param Bhavsa,Add traditional machine learning algorithms to the Swift TensorFlow library,Organization: TensorFlow
+Njagi Mwanik,Add Variant Graph (VG) support to BioD,Organization: Open Bioinformatics Foundation
+Ziao Wan,Add Windows Support for CVE-Binary-Tool,Organization: Python Software Foundation
+NilsHoe,Adding  PRU-ICSS drivers to RTEMS on Texas Instrument Sitara SoCs,Organization: RTEMS Project
+zed00,Adding (Updating) macOS support to Cuckoo SandBox,Organization: The Honeynet Project
+whitera,Adding and standardizing image processing operations in tf.image,Organization: TensorFlow
+Aditya Vitthalra,Adding Augmented Reality (AR) support to the MapMint4ME Android Application,Organization: OSGeo
+Shunji Nishitan,Adding Autocomplete Function in RubyGems.org Search UI,Organization: Ruby
+Ryan Le,Adding Curiosity to TF-Agents,Organization: TensorFlow
+Amit Sing,Adding design policy and improving design,Organization: Boost C++
+Abdalla mohamed Abouna,Adding Features to Subcircuits,Organization: CircuitVerse.org
+Alish Dipan,Adding Magick back-end support and iruby integration to Rubyplot.,Organization: Ruby Science Foundation
+ffmancer,Adding missing features in nftables,Organization: Netfilter project
+Kartik Sapr,Adding more options in Fabric8-Maven-Plugin for building images,Organization: JBoss Community
+Vlad Apetre,Adding multi-class classification to machine learning backend,Organization: Moodle
+sleep-40,Adding new features and Improving DetectionSuite,Organization: JdeRobot - Universidad Rey Juan Carlos
+Ziheng Zho,Adding plotting engine into PerformanceAnalytics package,Organization: R project for statistical computing
+Dhayalan Balakrishna,Adding Privilege escalation functionality to the monkey,Organization: The Honeynet Project
+Asami Do,Adding QEMU/AArch64 Support to Coreboot,Organization: coreboot
+Hitesh Kumar Rawa,"Adding SSR, CI/CD, Tests, Geohash, NSFW image classifier, and revamping Datastore and UX",Organization: AOSSIE - Australian Open Source Software Innovation and Education
+KunalKushwah,Adding support for missing resources & missing test coverage in Kubernetes-Client.,Organization: JBoss Community
+Moazi,Adding support for OpenType-SVG Fonts to FreeType,Organization: FreeType
+Victor Anton,Adding traditional Machine Learning algorithms to Swift for Tensorflow,Organization: TensorFlow
+SHREYAS KOWSHI,Addition Of Baseline Models To Model Zoo,Organization: The Julia Language
+Lizabeth Katsnelso,Addition of novel CPTAC proteogenomic datasets to the cBioPortal,Organization: cBioPortal for Cancer Genomics
+Xavier Figuero,Additional Format Support for the Python Libraries,Organization: SPDX (Software Product Data Exchange)
+Roberto Hueso Gome,Advanced Kernel Density Estimation Improvements,Organization: mlpack
+Caner Akda,"Advanced Node, Edge, Arrow Plugin Library",Organization: Computational Biology @ University of Nebraska-Lincoln
+PRAGATI AGRAWA,Advancement/Improvement of Settings Subsystem. (Zulip-Server),Organization: Zulip Open Source Project
+Panagiotis Lantavo,Adversarial Examples for Natural Language Models,"Organization: CLiPS, University of Antwerp"
+Angafor Brando,Agora,Organization: AOSSIE - Australian Open Source Software Innovation and Education
+Bomen Deric,Agora Slack Application,Organization: AOSSIE - Australian Open Source Software Innovation and Education
+Mukul Kuma,Agora Vote Android Application- Mukul Kumar,Organization: AOSSIE - Australian Open Source Software Innovation and Education
+Chirag Singha,Agora-web Proposal GSOC 2019,Organization: AOSSIE - Australian Open Source Software Innovation and Education
+Thanh Trung Din,AI Face Recognition with OpenCV DNN module,Organization: KDE Community
+Albert More,AirMashup for Liquid Galaxy,Organization: Liquid Galaxy project
+Rajat Singha,AirSim Simulator Support for Ardupilot SITL,Organization: Ardupilot.org
+Dimitrios Styliara,Ajax based interface Cscout,Organization: Open Technologies Aliance - GFOSS
+Abhishek Chauha,Alert Redistribution System for Fink : an Apache Spark based Broker for Astronomy,Organization: CERN-HSF
+Ashish Jh,Alexa Skill for Rocket.Chat,Organization: Rocket.Chat
+Yashas Samaga B ,Allow the OpenCV's DNN module to work with GPUs,Organization: OpenCV
+Sukhbir Sing,Amahi 12 Improvements,Organization: Amahi
+Vishwas Mitta,Amahi-Anywhere Improvements,Organization: Amahi
+Mikhaelle Buen,Amaya,Organization: Catrobat
+Alexey Mogilyovki,An ambitious step into mariadb developers society,Organization: MariaDB Foundation
+Jingrui L,An application for Céu-Arduino,Organization: LabLua
+snowkyli,An Extended Version of “A Concise Handbook of TensorFlow” And A Library of Extended Keras Layers for TF 2.0,Organization: TensorFlow
+Caio Tonett,An Improved Graph Theory IDE,Organization: KDE Community
+Daniel Xi,An R package for two new skew-t distributions,Organization: R project for statistical computing
+Alaa Salma,Analysis of WARP-V on FireSim with RocketChip,Organization: Free and Open Source Silicon Foundation
+Tanmai Khann,Anaphora Resolution,Organization: Apertium
+dev-riti,Android app improvement,Organization: Named Data Networking Project
+Balaji Ramavath,Android App Improvements,Organization: Amahi
